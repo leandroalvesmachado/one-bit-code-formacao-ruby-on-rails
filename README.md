@@ -1,2 +1,3 @@
-# one-bit-code-formacao-ruby-on-rails
-Formação Ruby on Rails
+# onebitcode-formacao-ruby-on-rails
+
+## Módulo 01. Ruby Fundamentos
